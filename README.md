@@ -8,7 +8,8 @@ I recommend to delete file in new_video and snapshot (NOT DIRECTORY)
 # comment
 
 you can uncomment what you want to use
-i have 5 functions
+
+# i have 5 functions
 
 1. print a image
 2. print a video
